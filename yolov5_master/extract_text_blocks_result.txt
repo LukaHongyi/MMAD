@@ -1,0 +1,142 @@
+
+Energy Policy 153 (2021) 112256
+
+2
+
+green economy make a society miserable due to the consequences of 
+such a crisis (Afonso and Furceri, 2010). The scale of public expenditure 
+in a green economy and the relationship between public expenditure 
+composition and economic growth impact fiscal policy implementation. 
+Some public expenditure components with more significant influence on 
+green economic activity than others give rise to this question. Changing 
+the level and composition of the total public expenditure on R&D en-
+ables a country to improve its economic performance (Iram et al., 2020). 
+The Belt and Road initiative (BRI) by China encourages the con-
+
+struction of large markets through mutual cooperation centric to energy 
+and infrastructure (Sun et al. 2020a, 2020b). Developing countries, 
+particularly in Asia and Africa, see this as a tremendous opportunity due 
+to Chinese banks’ lucrative financing offers. While most of the projects 
+are predominantly executed by China, the member countries often have 
+the opportunity to negotiate terms. The strategy of growth amongst the 
+developing economies is shifting from agriculture to modern industrial 
+manufacturing. Developing countries from Asia and Africa are trying to 
+achieve a significant output to support their growth targets by focusing 
+on their industrial sectors (Yang, 2017). Targeting much smooth and 
+enhanced output, emerging countries among BRI members have 
+increased their reliance on energy resources. However, to mitigate 
+global warming, the member countries must cooperate towards green 
+development, in addition to economic interests. Although the various 
+authors proposed studies (Dai et al., 2015) and (˜A and Spreng, 2007) 
+regarding environmental issues in the BRI region, the research is still in 
+its initial phase. Due to the reliance on the industrial sector and 
+non-renewable energy (NRE) resources, green economic growth has 
+improved; however, the continuous degradation of the environment 
+threatens the future (Montalbano and Nenci, 2019) and (Mohsin et al., 
+2018). According to the literature, the BRI member countries’ economic 
+growth can be significantly improved with the BRI project’s help. The 
+growth targets can be achieved through energy and living standards 
+(Omri, 2013 and Shah et al., 2019). Specific pointers play a role in the 
+failure of green economic growth, such as too much reliance on NRE, 
+inappropriate environmental planning, and insufficient public spending 
+in the field of research and development (R&D) (Al-mulali, 2011; 
+Acheampong, 2018). With the popular direction distance approach, this 
+study establishes a “green economic growth index” (Lin and Zhu, 2019). 
+Fluctuations in the economy’s progress, resource base, and environment 
+scenario are considered in the index construction process. The fluctua-
+tions are keenly observed in this index throughout the study. The 
+investigation follows the index’s formation to measure the impact of 
+education and R&D expenditure on green economic growth through the 
+two-step system, called the GMM method, used to run econometric 
+estimation. A positive statistical impact is noticed along with the 
+composition effect and the technical effect. The composition effect is 
+recorded to have a more significant impact than the technical effect 
+throughout the observation (Pe˜na-Martel et al., 2018). The impact of the 
+influential prospective channels of public spending on green economic 
+growth is also assessed in this study. According to the results, human 
+capital-based industries can be improved by public spending on the 
+education sector. Similarly, technology advancement can be accelerated 
+by public spending on Research and Development (Xing and Fuest, 
+2018) and (Martínez-Moya et al., 2019). 
+This study plays its role in providing instrumental insights for liter-
+
+ature. This study’s result can support the role of public spending in 
+affecting the green economy movement. Regardless of a consistent study 
+proving this concept, The market mechanism is influenced by govern-
+ment spending. This study proposes the minimised market failure 
+through increased public spending with empirical evidence regarding 
+the presence of composition and technique effect. In this study, green 
+economic growth is recorded to positively correlate with an increase in 
+fiscal spending. Data envelopement has been used to measure energy 
+efficiency for selected countries. The public policy measures broadly 
+impact energy conservation, economic growth, and environmental 
+safety initiatives, and these three variables must have an excellent right 
+
+balance in the green economy movement. According to this study, 
+governments can foster green economic development by increasing 
+spending on public properties, concluding with some suggestions for the 
+BRI countries to achieve sustainable economic development. The het-
+erogeneity of the sample countries is evident in this study. Hence, in 
+order for different countries to benefit from public spending for green 
+economic growth (green public finance), it is vital to form different 
+development initiatives. 
+The remaining sections of the study are stated as: Section 2 presents 
+detailed literature on green economics, section 3 introduces the data and 
+methodology, section 4 presents an analysis on the empirical study, 
+section 5 is based on the conclusion and policy recommendations. 
+
+2. The green economy: role of clean energy 
+
+The global sustainable development for energy and the environment 
+relatively depends on BRI construction (Zhang and Zhang, 2018). With 
+one-third of the global GDP in energy, an estimated 62% of the global 
+population, 39% of the global land area, 24% of household consump-
+tion, and approximately half of the world’s total energy consumption is 
+based on the countries along the “Belt and Road” (IEA, 2016; see Fig. 1 
+for the map of BRI). Therefore, the total energy intensity or the energy 
+input per unit GDP is higher for this region, reflecting countries’ po-
+tential along the “Belt and Road” for cleaning through the production 
+process (Qi et al., 2019). The improvement of the basic connectivity of 
+trade and investment between the Silk Road land and Silk Road sea 
+routes is one of the primary objectives for the “Belt and Road” con-
+struction. It is also essential for the countries along the “Belt and Road” 
+to decrease heat consumption through government spending on 
+research and development to achieve economic growth. Demand for 
+high-quality investment in the energy sector is supported by the lack of 
+energy infrastructure, which is one of the main hurdles in achieving 
+sustainable economic development in the countries along with the “Belt 
+and Road,” most of which are emerging economies and developing 
+countries (Liu et al., 2020). 
+It is easy to define a green economy as resource-efficient, low-carbon 
+(clean), and socially inclusive. In a green economy, the growth of 
+employment and income is driven by public and private investment. 
+Such green investments propel economic activities, including green 
+energy infrastructure development to reduce carbon emissions, improve 
+energy and resource efficiency, and protect biodiversity and ecosystems 
+(Sun et al. 2020a, 2020b). As a result, green economic growth has gained 
+attention as a new form of economic mechanism worldwide (Rodri-
+guez-Gonzalez et al., 2018). A precise definition of the green economy is 
+evident in previous studies (Anser, 2019) and (Tehreem et al., 2020). A 
+green economy is termed as a strategic concept responsible for analysing 
+the concept and meaning of “green growth”, according to some inter-
+national agencies’ claims, such as the UNEP (2011). The relationship 
+between sustainable development, green economy and green economy’s 
+dimensional characteristics with bibliometric analysis is studied in Nieto 
+et al. (2018). Public finance is not enough to achieve green development 
+goals and the Sustainable Development Goals (SDGs) set by The United 
+Nations, according to Yoshino et al. (2020) and Taghizadeh-Hesary and 
+Yoshino (2019). Therefore, the government needs to allow green 
+infrastructural projects to bring more private green finance and in-
+vestments (Zhang et a. 2019; Taghizadeh-Hesary and Yoshino, 2020). 
+Green economy and growth are discussed in the literature in great 
+detail. By adopting a green economy, we can produce low carbon 
+discharge and preserve green resources (Lin and Jia 2018). According to 
+some studies, environmental safety and employment generation can 
+help green growth in ensuring economic development. (Iqbal et al., 
+2020). Wang et al. (2019) applied the input-output measure of energy to 
+study the prospective direction for Canada’s green economy under 
+various phenomena. The growth efficiency of green economies of Chi-
+nese cities is studied by Zhao et al. (2017). The extent of green economic 
+development in Chinese cities considering various resources is assessed 
+
+D. Zhang et al.                                                                                                                                                                                                                                   

@@ -1,0 +1,13 @@
+import fitz
+
+
+pdf_doc = fitz.open("test_file/Public spending and green economic growth in BRI region Mediating role.pdf")
+pdf_page = pdf_doc[1]
+text_blocks = pdf_page.get_text('blocks')  # text_block: tuple of (x1, y1, x2, y2, text, _, _)
+
+
+with open('extract_text_blocks_result.txt', 'w', encoding="utf-8") as f:
+    # print(len(text_blocks))
+        for i in range(len(text_blocks)):
+            f.write("\n")
+            f.write(text_blocks[i][4])
